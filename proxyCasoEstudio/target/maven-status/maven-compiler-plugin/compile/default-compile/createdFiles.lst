@@ -1,0 +1,5 @@
+InterfaceBoss\IBoss.class
+InterfaceBossImpl\BossImpl.class
+BossProxy\BossProxy.class
+Model\Boss.class
+Principal\Main.class
